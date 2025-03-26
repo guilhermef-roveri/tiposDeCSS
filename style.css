@@ -1,0 +1,48 @@
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: aliceblue;
+    border-radius: 25px;
+    border: solid 2px blue;
+    margin: 20px
+}
+
+#cor {
+    background-color: red;
+}
+
+span {
+    color: blueviolet !important;
+}
+
+.imgPerfil {
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 60px;
+}
+
+.mensagem{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+}
+
+p{
+    font-size: 15px;
+}
+h1{
+    font-size:30px;
+}
+
+.corPadrao{
+    color: blue;
+}
+
+.estiloTexto{
+    font-style: italic;
+}
+
+.espacoDiv{
+    width: 100px; height: 100px; border-radius: 50%; margin-left: 45px; margin-top: 10px;
+}
